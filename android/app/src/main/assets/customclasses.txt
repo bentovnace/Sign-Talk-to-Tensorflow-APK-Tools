@@ -1,0 +1,56 @@
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Hello
+I am fine
+Please
+Excuse me
+Goodbye
+What's your name?
+Thank you
+When?
+How many
+What?
+How much?
+Who?
+Hunger
+Time?
+Which
+Bird
+Bear
+Happy
+Question
+No
+Me
+
+no
+House
+Telephone
+Plane
+Chair
+Shoes
+skirt
+Socks
